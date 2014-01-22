@@ -1,28 +1,13 @@
-== README
+# Rails basic application template
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a basic Rails Application with many standard gems and configurations.
 
-Things you may want to cover:
+## The step-by-step building process
 
-* Ruby version
+Here are the steps followed to build this application.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+1.  Create an empty Rails application.
+    
+    ```Batchfile
+    rails new app_name
+    ```
