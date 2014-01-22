@@ -16,6 +16,7 @@ gem 'figaro'
 gem 'slim-rails'
 gem 'sass-rails'
 gem 'bootstrap-sass'
+gem 'font-awesome-rails'
 
 # JS
 gem 'coffee-rails'
