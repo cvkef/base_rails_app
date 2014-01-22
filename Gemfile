@@ -24,6 +24,7 @@ group :developement do
   # Application Server
   gem 'thin'
 
-  # Console
+  # Console and Debug
   gem 'pry'
+  gem 'binding_of_caller'
 end

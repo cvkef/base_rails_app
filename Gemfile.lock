@@ -27,6 +27,8 @@ GEM
       tzinfo (~> 0.3.37)
     arel (4.0.1)
     atomic (1.1.14)
+    binding_of_caller (0.7.2)
+      debug_inspector (>= 0.0.1)
     builder (3.1.4)
     coderay (1.1.0)
     coffee-rails (4.0.1)
@@ -37,6 +39,7 @@ GEM
       execjs
     coffee-script-source (1.6.3)
     daemons (1.1.9)
+    debug_inspector (0.0.2)
     erubis (2.7.0)
     eventmachine (1.0.3)
     execjs (2.0.2)
@@ -116,6 +119,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  binding_of_caller
   coffee-rails
   jbuilder
   jquery-rails
