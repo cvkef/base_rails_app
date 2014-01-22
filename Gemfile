@@ -36,3 +36,8 @@ group :developement do
   gem 'better_errors'
   gem 'quiet_assets'
 end
+
+#
+group :development, :test do
+  gem 'minitest-rails'
+end 
