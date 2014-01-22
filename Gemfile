@@ -23,4 +23,7 @@ gem 'uglifier'
 group :developement do
   # Application Server
   gem 'thin'
+
+  # Console
+  gem 'pry'
 end
