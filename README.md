@@ -4,7 +4,7 @@ This is a basic Rails Application with many standard gems and configurations.
 
 ## Warning
 
-*After cloning the project DO NOT FORGET to IGNORE these files in `.gitignore`:
+After cloning the project **DO NOT FORGET** to **IGNORE** these files in `.gitignore`:
 ```Batchfile
 # Ignore database configuration
 /config/database.yml
