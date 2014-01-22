@@ -13,6 +13,7 @@ gem 'pg'
 gem 'figaro'
 
 # Layout
+gem 'slim-rails'
 gem 'sass-rails'
 
 # JS
