@@ -26,7 +26,7 @@ gem 'turbolinks'
 gem 'uglifier'
 
 #
-group :developement do
+group :development do
   # Application Server
   gem 'thin'
 
