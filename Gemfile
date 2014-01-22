@@ -9,6 +9,9 @@ gem 'rails', '4.0.2'
 # DB
 gem 'pg'
 
+# Application
+gem 'figaro'
+
 # Layout
 gem 'sass-rails'
 
