@@ -24,8 +24,9 @@ group :developement do
   # Application Server
   gem 'thin'
 
-  # Console and Debug
+  # Console, Debug and Logging
   gem 'pry'
   gem 'binding_of_caller'
   gem 'better_errors'
+  gem 'quiet_assets'
 end
