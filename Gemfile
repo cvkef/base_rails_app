@@ -15,6 +15,7 @@ gem 'figaro'
 # Layout
 gem 'slim-rails'
 gem 'sass-rails'
+gem 'bootstrap-sass'
 
 # JS
 gem 'coffee-rails'
