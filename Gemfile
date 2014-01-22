@@ -18,3 +18,9 @@ gem 'jbuilder'
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'uglifier'
+
+#
+group :developement do
+  # Application Server
+  gem 'thin'
+end
